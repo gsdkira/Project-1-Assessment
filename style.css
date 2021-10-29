@@ -1,3 +1,10 @@
 button:hover {
     color: gray
 }
+
+main, h2 {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+
